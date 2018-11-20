@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/desert.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "assets/images/desert2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "assets/images/forest.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "assets/images/forest2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "assets/images/ocean.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "assets/images/ocean2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "assets/images/volcano.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "assets/images/volcano2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "assets/images/arctic.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "assets/images/arctic2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "assets/images/jungle.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "assets/images/jungle2.jpg",
+      "clicked": false
+    }
+  ]
